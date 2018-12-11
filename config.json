@@ -1,0 +1,8 @@
+{
+	"db" : {
+		"sgbd" : "pgsql",
+		"dbname" : "dbname",
+		"dblogin" : "login",
+		"dbpass" : "pass"
+	}
+}
